@@ -27,6 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+<h2>Step 1: Installing IIS</h2>
 <p>
 <img src="https://i.imgur.com/Xrrlwmi.png" height="80%" width="80%" alt="Install and Enable IIS in Windows"/>
 <p>
@@ -39,6 +40,7 @@ Install and enable IIS in Windows with CGI and Common HTTP Features:
 </p>
 <br />
 
+<h2>Step 2: Confirming Installation of IIS</h2>
 <p>
 <img src="https://i.imgur.com/CljBXBi.png" height="80%" width="80%" alt="IIS enabled"/>
 </p>
@@ -48,6 +50,7 @@ To confirm wether or not you completed the enabling of IIS and Common HTTP Featu
 </p>
 <br />
 
+<h2>Step 3: Installing PHP Manager for IIS</h2>
 <p>
 <img src="https://i.imgur.com/NccA6Zq.jpeg" height="80%" width="80%" alt="Installing PHP Manager for IIS"/>
 </p>
@@ -56,6 +59,7 @@ Next you want to install the PHP Manager for IIS executable from the required in
 </p>
 <br />
 
+<h2>Step 4: Installing rewrite_amd64_en-US.msi </h2>
 <p>
 <img src="https://i.imgur.com/kYNENOs.jpeg" height="80%" width="80%" alt="Rewrite Installation"/>
 </p>
@@ -64,6 +68,7 @@ After the PHP Manager for IIS install, the next executable to install will be th
 </p>
 <br />
 
+<h2>Step 5: Create PHP Directory in C:\ Drive</h2>
 <p>
 <img src="https://i.imgur.com/WErvorO.jpeg" height="80%" width="80%" alt="PHP folder"/>
 </p>
@@ -73,6 +78,7 @@ Next step is to create the directory C:\PHP:
 </p>
 <br />
 
+<h2>Step 6: Drag And Drop php-7.3.8-nts-Win32-VC15-x86.zip Into PHP Folder</h2>
 <p>
 <img src="https://i.imgur.com/bFmkPWi.jpeg" height="80%" width="80%" alt="PHP EXTRACTION"/>
 </p>
@@ -81,6 +87,7 @@ For the next step we are going to take the "php-7.3.8-nts-Win32-VC15-x86.zip" fi
 </p>
 <br />
 
+<h2>Step 7: Installing VC_redist.x86 </h2>
 <p>
 <img src="https://i.imgur.com/HUsQnmB.jpeg" height="80%" width="80%" alt="VCredistx86"/>
 </p>
@@ -89,6 +96,7 @@ After extracting the files, execute the VC_redist.x86 file and complete the inst
 </p>
 <br />
 
+<h2>Step 8: Installing MySQL</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -97,6 +105,7 @@ After extracting the files, execute the VC_redist.x86 file and complete the inst
 </p>
 <br />
 
+<h2>Step 8:</h2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
